@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Vishnu N</h1>
-<h3 align="center">Information Science Student | Aspiring MERN Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Information Science Student | Aspiring Frontend Developer | Quick Learner | IBM SkillsBuild Internship Applicant</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Final Year **Information Science Engineering** Student  
-- 🌱 Currently learning **MongoDB**, **Node.js**, and **Full Stack Web Development**
-- 🔭 Working on real-world projects in **Deep Learning** and **Web Development**
-- 💡 Exploring opportunities in **AI/ML**, **Backend Dev**, and **Open Source**
+- 🎓 Final Year **Information Science Engineering** student  
+- 🌱 Actively learning **Frontend Web Development** as part of the **IBM SkillsBuild Program**
+- 🔧 Hands-on with tools like **Git**, **GitHub**, and **VS Code**
+- 🚀 Eager to build and contribute to real-world projects in **HTML**, **CSS**, and **JavaScript**
+- 💡 Exploring growth opportunities in **Web Development**, **Open Source**, and **Modern Tech Stacks**
 
 ---
 
-### 💼 Projects I'm Proud Of
-
-- 🧠 **Lung Cancer Prediction** – Deep learning model using histopathology images  
-- 🦴 **Bone Fracture Detection** – YOLO-based object detection project  
-- 🌐 **Portfolio Website** – Personal responsive website (Coming soon)
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
 - **Languages:** HTML, CSS, JavaScript, Python  
-- **Frameworks/Libraries:** React.js, Node.js, Express.js  
-- **Database:** MongoDB (Atlas)  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **Learning:** REST APIs, Mongoose, React Hooks, Machine Learning  
+- **Frontend:** Responsive Design, Forms, DOM Manipulation  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Learning:** React.js, Node.js, MongoDB (Atlas), APIs
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Internship Goals
+
+- ✅ Build individual frontend projects using real-world concepts  
+- ✅ Collaborate in a virtual learning environment  
+- ✅ Earn certifications and digital credentials  
+- ✅ Improve my GitHub by uploading every weekly project  
+- ✅ Grow into a confident MERN Stack Developer
+
+---
+
+### 📈 GitHub Stats (Work In Progress)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnundev&show_icons=true&theme=github_dark" width="450"/>
@@ -39,16 +41,16 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
 
-- ✉️ Email: **vsnvishnun@gmail.com**
-- 💼 LinkedIn: [soon]
+- 📧 Email: **vsnvishnun@gmail.com**
+- 💼 LinkedIn: [Coming soon]
 - 🌐 Portfolio: [Coming soon]
 
 ---
 
-### 📌 Fun Fact
-> “Sometimes I write code that doesn’t work… and I call it AI 🤖”
+### 💡 Fun Fact
+
+> “I might not have many projects now — but give me 6 weeks, and my GitHub will tell a different story! 💻✨”
 
 ---
-
