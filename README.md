@@ -1,38 +1,51 @@
 <h1 align="center">Hi 👋, I'm Vishnu N</h1>
-<h3 align="center">Information Science Student | Aspiring Frontend Developer | Quick Learner | IBM SkillsBuild Internship Applicant</h3>
+<h3 align="center">Information Science Student | Aspiring Full Stack Developer | AI/ML Enthusiast | Open to Internship Opportunities</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Final Year **Information Science Engineering** student  
-- 🌱 Actively learning **Frontend Web Development** as part of the **IBM SkillsBuild Program**
-- 🔧 Hands-on with tools like **Git**, **GitHub**, and **VS Code**
-- 🚀 Eager to build and contribute to real-world projects in **HTML**, **CSS**, and **JavaScript**
-- 💡 Exploring growth opportunities in **Web Development**, **Open Source**, and **Modern Tech Stacks**
+- 🎓 Final Year student of **Information Science Engineering**
+- 🌱 Currently learning **Full Stack Web Development** (MERN)
+- 💻 Familiar with tools like **Git**, **GitHub**, **VS Code**, and **MongoDB Atlas**
+- 🧠 Quick learner, adaptive, and committed to continuous self-improvement
+- 🚀 Looking for opportunities to **apply my skills** in real-world projects and internships  
+- 🎯 Interested in roles related to **Frontend Development**, **Backend APIs**, **AI/ML**, and **Open Source**
 
 ---
 
-### 🛠️ Skills & Tools
+### 🧑‍💻 Internship/Training Goals
+
+- ✅ Build real-world web applications (solo or team)
+- ✅ Contribute to open-source or internship-based projects
+- ✅ Strengthen knowledge of JavaScript, React, Node.js
+- ✅ Learn modern development practices like version control, debugging, REST APIs
+- ✅ Expand my GitHub portfolio with meaningful work
+
+---
+
+### 🛠️ Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, Python  
-- **Frontend:** Responsive Design, Forms, DOM Manipulation  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Learning:** React.js, Node.js, MongoDB (Atlas), APIs
+- **Frontend:** Responsive Design, DOM Manipulation, Forms, Flexbox, Grid  
+- **Backend (Learning):** Node.js, Express.js  
+- **Database:** MongoDB (Atlas)  
+- **Tools:** Git, GitHub, VS Code, Postman, Chrome DevTools  
+- **Other Interests:** Machine Learning, AI, APIs, React.js
 
 ---
 
-### 🎯 Internship Goals
+### 🌟 What Sets Me Apart
 
-- ✅ Build individual frontend projects using real-world concepts  
-- ✅ Collaborate in a virtual learning environment  
-- ✅ Earn certifications and digital credentials  
-- ✅ Improve my GitHub by uploading every weekly project  
-- ✅ Grow into a confident MERN Stack Developer
+- 🧩 Fast learner and self-driven  
+- 🛠️ Comfortable working independently or in collaborative environments  
+- 💡 Eager to explore and contribute to projects from day one  
+- 📚 Enjoy solving problems with both logic and creativity  
+- 🌍 Open to remote internships, collaborations, and mentorships
 
 ---
 
-### 📈 GitHub Stats (Work In Progress)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnundev&show_icons=true&theme=github_dark" width="450"/>
@@ -45,12 +58,12 @@
 
 - 📧 Email: **vsnvishnun@gmail.com**
 - 💼 LinkedIn: [Coming soon]
-- 🌐 Portfolio: [Coming soon]
+- 🌐 Portfolio Website: [Coming soon]
 
 ---
 
-### 💡 Fun Fact
+### 🧠 Fun Fact
 
-> “I might not have many projects now — but give me 6 weeks, and my GitHub will tell a different story! 💻✨”
+> “I believe that growth comes from getting your hands dirty — I’m ready to learn, build, fail, and improve 💪”
 
 ---
