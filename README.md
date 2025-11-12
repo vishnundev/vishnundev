@@ -27,10 +27,10 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, Python  
-- **Frontend:** Responsive Design, DOM Manipulation, Forms, Flexbox, Grid  
+- **Frontend:** Responsive Design, Forms, Flexbox, Grid  
 - **Backend (Learning):** Node.js, Express.js  
 - **Database:** MongoDB (Atlas)  
-- **Tools:** Git, GitHub, VS Code, Postman, Chrome DevTools  
+- **Tools:** Git, GitHub, VS Code  
 - **Other Interests:** Machine Learning, AI, APIs, React.js
 
 ---
@@ -57,7 +57,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: **vsnvishnun@gmail.com**
-- 💼 LinkedIn: [Coming soon]
+- 💼 LinkedIn: **https://www.linkedin.com/in/vishnun28**
 - 🌐 Portfolio Website: [Coming soon]
 
 ---
