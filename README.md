@@ -7,10 +7,12 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <h3 align="center">
-Java Full Stack Developer | Software Engineer | 2026 Graduate
+Java Full Stack Development | Software Engineer | 2026 Graduate
 </h3>
 
 <p align="center">
@@ -21,9 +23,9 @@ Passionate about building scalable Java applications using Spring Boot, React, R
 
 # 👨‍💻 About Me
 
-🎓 B.E. Information Science Engineering (2026 Graduate)
+🎓 B.E. Information Science and Engineering (2026 Graduate)
 
-💼 Java Full Stack Developer
+💼 Java Full Stack Development
 
 💻 Passionate about backend development, enterprise applications, and clean software architecture.
 
