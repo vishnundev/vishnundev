@@ -1,69 +1,196 @@
 <h1 align="center">Hi 👋, I'm Vishnu N</h1>
-<h3 align="center">Information Science Student | Aspiring Full Stack Developer | AI/ML Enthusiast | Open to Internship Opportunities</h3>
 
----
-
-### 🙋‍♂️ About Me
-
-- 🎓 Final Year student of **Information Science Engineering**
-- 🌱 Currently learning **Full Stack Web Development** (MERN)
-- 💻 Familiar with tools like **Git**, **GitHub**, **VS Code**, and **MongoDB Atlas**
-- 🧠 Quick learner, adaptive, and committed to continuous self-improvement
-- 🚀 Looking for opportunities to **apply my skills** in real-world projects and internships  
-- 🎯 Interested in roles related to **Frontend Development**, **Backend APIs**, **AI/ML**, and **Open Source**
-
----
-
-### 🧑‍💻 Internship/Training Goals
-
-- ✅ Build real-world web applications (solo or team)
-- ✅ Contribute to open-source or internship-based projects
-- ✅ Strengthen knowledge of JavaScript, React, Node.js
-- ✅ Learn modern development practices like version control, debugging, REST APIs
-- ✅ Expand my GitHub portfolio with meaningful work
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Frontend:** Responsive Design, Forms, Flexbox, Grid  
-- **Backend (Learning):** Node.js, Express.js  
-- **Database:** MongoDB (Atlas)  
-- **Tools:** Git, GitHub, VS Code  
-- **Other Interests:** Machine Learning, AI, APIs, React.js
-
----
-
-### 🌟 What Sets Me Apart
-
-- 🧩 Fast learner and self-driven  
-- 🛠️ Comfortable working independently or in collaborative environments  
-- 💡 Eager to explore and contribute to projects from day one  
-- 📚 Enjoy solving problems with both logic and creativity  
-- 🌍 Open to remote internships, collaborations, and mentorships
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">
+Java Full Stack Developer | Software Engineer | AI & Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnundev&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnundev&layout=compact&theme=github_dark" width="350"/>
+Building scalable backend applications using Java, Spring Boot, REST APIs, SQL, and modern web technologies.
 </p>
 
 ---
 
-### 📫 Let's Connect
+# 👨‍💻 About Me
 
-- 📧 Email: **vsnvishnun@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/vishnun28**
-- 🌐 Portfolio Website: [Coming soon]
+🎓 B.E. Information Science Engineering (2026 Graduate)
+
+💼 Java Full Stack Developer
+
+🚀 Passionate about building enterprise applications, backend systems, AI-powered solutions, and secure software.
+
+🌱 Currently improving
+
+- Data Structures & Algorithms (Java)
+- Spring Boot & Spring Security
+- Microservices
+- System Design
+- SQL Optimization
+
+🎯 Looking for
+
+- Software Engineer
+- Java Developer
+- Backend Developer
+- Full Stack Developer
+
+roles across product-based companies and MNCs.
 
 ---
 
-### 🧠 Fun Fact
+# 🛠 Tech Stack
 
-> “I believe that growth comes from getting your hands dirty — I’m ready to learn, build, fail, and improve 💪”
+## Languages
+
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
 ---
+
+## Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- REST APIs
+- JDBC
+- Hibernate
+- JPA
+
+---
+
+## Frontend
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+---
+
+## Database
+
+- MySQL
+- MongoDB
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- IntelliJ IDEA
+- Postman
+- Maven
+- Docker
+
+---
+
+## Currently Learning
+
+- Microservices
+- AWS
+- Redis
+- Kafka
+- Kubernetes
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Autonomous Edge Intelligence Platform
+
+AI-powered crop pest detection system developed for the KSCST Student Project Programme.
+
+**Tech Used**
+
+- Python
+- Roboflow
+- OpenCV
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🛡 Honeypot Hydra
+
+Real-Time Threat Observation & Active Defence Platform.
+
+**Tech Used**
+
+- Python
+- Flask
+- Docker
+- Cowrie Honeypot
+- Grafana
+- Loki
+- Promtail
+
+---
+
+## 💻 Java Full Stack Projects
+
+- Authentication System
+- CRUD Applications
+- REST APIs
+- Employee Management System
+- Spring Boot Projects
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnundev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnundev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+🌱 Solving Data Structures & Algorithms in Java.
+
+Current Focus:
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**vsnvishnun@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/vishnun28
+
+🐙 GitHub
+
+https://github.com/vishnundev
+
+---
+
+# 💡 Motto
+
+> "Code. Learn. Build. Improve. Repeat."
+
+⭐ Always open to collaborating on impactful projects and exciting opportunities.
