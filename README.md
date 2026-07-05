@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vishnu N</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 <h3 align="center">
-Java Full Stack Developer | Software Engineer | AI & Cybersecurity Enthusiast
+Java Full Stack Developer | Software Engineer | 2026 Graduate
 </h3>
 
 <p align="center">
-Building scalable backend applications using Java, Spring Boot, REST APIs, SQL, and modern web technologies.
+Passionate about building scalable Java applications using Spring Boot, React, REST APIs, and SQL.
 </p>
 
 ---
@@ -16,24 +25,22 @@ Building scalable backend applications using Java, Spring Boot, REST APIs, SQL, 
 
 💼 Java Full Stack Developer
 
-🚀 Passionate about building enterprise applications, backend systems, AI-powered solutions, and secure software.
+💻 Passionate about backend development, enterprise applications, and clean software architecture.
 
-🌱 Currently improving
+🌱 Currently learning
 
-- Data Structures & Algorithms (Java)
-- Spring Boot & Spring Security
-- Microservices
+- Advanced Spring Boot
+- Spring Security
+- Data Structures & Algorithms
 - System Design
-- SQL Optimization
+- Microservices
 
-🎯 Looking for
+🎯 Looking for opportunities as
 
 - Software Engineer
 - Java Developer
 - Backend Developer
 - Full Stack Developer
-
-roles across product-based companies and MNCs.
 
 ---
 
@@ -42,9 +49,8 @@ roles across product-based companies and MNCs.
 ## Languages
 
 - Java
-- Python
-- JavaScript
 - SQL
+- JavaScript
 - HTML5
 - CSS3
 
@@ -68,14 +74,13 @@ roles across product-based companies and MNCs.
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 
 ---
 
 ## Database
 
 - MySQL
-- MongoDB
+- PostgreSQL
 
 ---
 
@@ -83,66 +88,90 @@ roles across product-based companies and MNCs.
 
 - Git
 - GitHub
-- VS Code
-- Eclipse
-- IntelliJ IDEA
-- Postman
 - Maven
-- Docker
-
----
-
-## Currently Learning
-
-- Microservices
-- AWS
-- Redis
-- Kafka
-- Kubernetes
+- Postman
+- Swagger
+- VS Code
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 Autonomous Edge Intelligence Platform
+## 📄 ResumeIQ AI
 
-AI-powered crop pest detection system developed for the KSCST Student Project Programme.
+AI-powered Resume Analyzer built using
 
-**Tech Used**
+- Java
+- Spring Boot
+- Spring Security
+- React.js
+- PostgreSQL
+- Gemini API
 
-- Python
-- Roboflow
-- OpenCV
-- Flask
+### Features
+
+- ATS Score Analysis
+- Resume Improvement Suggestions
+- Interview Preparation
+- Secure JWT Authentication
+- PDF Report Generation
+
+---
+
+## 📦 Smart Inventory & Order Management System
+
+Enterprise-style Inventory Management System
+
+### Features
+
+- Product Management
+- Supplier Management
+- Order Management
+- Invoice Generation
+- Dashboard Analytics
+- REST APIs
+- Authentication
+
+Built using
+
+- Spring Boot
+- React
+- MySQL
+- JPA/Hibernate
+
+---
+
+## 🌾 KSCST Selected Project
+
+**Autonomous Edge Intelligence Platform**
+
+Selected under the **Karnataka State Council for Science and Technology (KSCST)**.
+
+My contribution focused primarily on:
+
+- Frontend UI Development
+- Dashboard Design
+- User Interface Integration
+- Project Workflow Implementation
+
+Technologies Used
+
 - HTML
 - CSS
 - JavaScript
-
----
-
-## 🛡 Honeypot Hydra
-
-Real-Time Threat Observation & Active Defence Platform.
-
-**Tech Used**
-
-- Python
 - Flask
-- Docker
-- Cowrie Honeypot
-- Grafana
-- Loki
-- Promtail
+- Python (Basic)
+- Roboflow
 
 ---
 
-## 💻 Java Full Stack Projects
+# 📚 Currently Learning
 
-- Authentication System
-- CRUD Applications
-- REST APIs
-- Employee Management System
-- Spring Boot Projects
+- Data Structures & Algorithms (Java)
+- Spring Security
+- Microservices
+- System Design
+- Design Patterns
 
 ---
 
@@ -158,39 +187,24 @@ Real-Time Threat Observation & Active Defence Platform.
 
 ---
 
-# 🏆 Competitive Programming
-
-🌱 Solving Data Structures & Algorithms in Java.
-
-Current Focus:
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-
----
-
 # 📫 Connect With Me
 
-📧 Email
+📧 **Email**
 
-**vsnvishnun@gmail.com**
+vsnvishnun@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://linkedin.com/in/vishnun28
 
-🐙 GitHub
+🐙 **GitHub**
 
 https://github.com/vishnundev
 
 ---
 
-# 💡 Motto
+# 💡 Quote
 
-> "Code. Learn. Build. Improve. Repeat."
+> "Always learning, always building, and always improving."
 
-⭐ Always open to collaborating on impactful projects and exciting opportunities.
+⭐ Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer opportunities.
